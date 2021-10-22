@@ -25,7 +25,7 @@
 
 /* Active/current link */
 .topnav a.active {
-  background-color: #2f069e;
+  background-color: #00B0FF;
   color: white;
 }
 
@@ -97,7 +97,7 @@
 
     position: relative;
     animation-name: example;
-    animation-duration: 100s;
+    animation-duration: 150s;
   }
   
   @keyframes example {
@@ -106,3 +106,12 @@
     
   }
 
+   .container {
+       
+    box-shadow: 0 0 50px;
+    
+
+
+   }
+
+   div {
